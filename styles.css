@@ -38,31 +38,39 @@ p {
 
 /* Compleate challenge down here */
 
-#red-box{
-  background-color: red;
+.red-box{
+  background-color: orange;
   display: inline-block;
-  width: 300px;
-  height:200px;
+  width: 24vw;
+  height: 100vh;
+  color: white;
 }
 
-#blue-box{
-  background-color: blue;
+.blue-box{
+  background-color: purple;
   display: inline-block;
-  width: 300px;
-  height:200px;
+  width: 24vw;
+  height: 100vh;
+  color: white;
 }
 
-#yellow-box{
-  background-color: yellow;
+.yellow-box{
+  background-color: pink;
   display: inline-block;
-  width: 300px;
-  height:200px;
+  width: 25vw;
+  height: 100vh;
+  color: white;
 }
 
-#green-box{
-  background-color: green;
+.green-box{
+  background-color: black;
   display: inline-block;
-  width: 300px;
-  height:200px;
+  width: 25vw;
+  height: 100vh;
+  color: white;
 }
 
+.style-this-container{
+  font-size: 3vw;
+  margin-bottom: 2vh;
+}
