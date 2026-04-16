@@ -41,20 +41,28 @@ p {
 #red-box{
   background-color: red;
   display: inline-block;
+  width: 300px;
+  height:200px;
 }
 
 #blue-box{
   background-color: blue;
   display: inline-block;
+  width: 300px;
+  height:200px;
 }
 
 #yellow-box{
   background-color: yellow;
   display: inline-block;
+  width: 300px;
+  height:200px;
 }
 
 #green-box{
   background-color: green;
   display: inline-block;
+  width: 300px;
+  height:200px;
 }
 
